@@ -37,4 +37,4 @@ big
 
 🍎
 
-![NKUST](nkust.png "高科大")
+![NKUST](nkust.png)
