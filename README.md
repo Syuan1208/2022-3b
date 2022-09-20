@@ -41,6 +41,7 @@ big
 
 - [ ] todo list
 
+- [X] 2 thing
 ```python
 a = "this is an example"
 print (a)
