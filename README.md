@@ -39,7 +39,7 @@ big
 
 ![NKUST](nkust.png)
 
--[ ] todo list
+-[] todo list
 
 ```python
 a = "this is an example"
