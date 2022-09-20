@@ -45,8 +45,8 @@ print (a)
 ```
 
 
-- [ ]todo list
-- [ ]2nd things
+- [ ] todo list
+- [ ] 2nd things
 ---
 python code
 ```python code
