@@ -59,3 +59,7 @@ javascipt code
 var s ="JavaScript syntax highlighting";
 alert(s);
 ```
+---
+| Table      | Are | Cool |
+|:-----------|:---:|-----:|
+| color 3 is | rignt-aligned |
