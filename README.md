@@ -46,3 +46,19 @@ big
 a = "this is an example"
 print (a)
 ```
+
+
+- [ ]todo list
+- [ ]2nd things
+---
+python code
+```python code
+s="Python syntax highlighting" 
+print s
+```
+---
+javascipt code
+```javascipt code
+var s ="JavaScript syntax highlighting";
+alert(s);
+```
